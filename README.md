@@ -1,4 +1,5 @@
 <h1 align="center">Hi everyone👋, welcome to MinhNguyenDS's repository :blush:</h1>
+![](https://komarev.com/ghpvc/?username=MinhNguyenDS)
 
 
 
