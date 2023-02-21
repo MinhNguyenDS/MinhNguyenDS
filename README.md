@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi everyone👋, welcome to MinhNguyenDS's repository :blush:
+
+
 
 <!--
 **MinhNguyenDS/MinhNguyenDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
