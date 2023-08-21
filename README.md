@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MinhNguyenDS&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet&style=for-the-badge&label=Repository+views" alt="MinhNguyenDS" /> </p>
 
 - :school: I’m currently studying at [University of Information Technology](https://www.uit.edu.vn/)
-- :book: I’m currently learning **Recommendation System, Natural Language Preprocessing, Big Data, Deep Learning and Machine Learning**
+- :book: My SPECIALITY is **Recommendation System, Natural Language Preprocessing, Information Retrieval, Big Data, Deep Learning and Machine Learning**
 
 <h3 align="left">Languages and Libraries</h3>
 
