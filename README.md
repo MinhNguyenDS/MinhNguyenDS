@@ -1,18 +1,16 @@
 <h1 align="center">:wave: Hi everyone :blush:, welcome to MinhNguyenDS's repository :star2:</h1>
-<h3 align="center">Senior student at the University of Information Technology, Vietnam</h3>
+<h3 align="center">Master of Science at the University of Science - VNUHCM, Vietnam</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MinhNguyenDS&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet&style=for-the-badge&label=Repository+views" alt="MinhNguyenDS" /> </p>
 
-- :school: I’m currently studying at [University of Information Technology](https://www.uit.edu.vn/)
+- :school: I’m currently studying Artificial Intelligence at [University of Science](https://en.hcmus.edu.vn/)
 - :book: My SPECIALITY is **Recommendation System, Natural Language Preprocessing, Information Retrieval, Big Data, Deep Learning and Machine Learning**
 
 <h3 align="left">Languages and Libraries</h3>
 
-[![SkillIcons](https://skillicons.dev/icons?i=py,r,tensorflow)](https://skillicons.dev)
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-</a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<img height="50" src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png"> 
-<img height="50" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png">
-<img height="50" src="https://user-images.githubusercontent.com/25181517/183893668-d45b89f9-bd9f-4143-b61a-7db9ac6bbd5e.png">
+[![SkillIcons](https://skillicons.dev/icons?i=py,r,ts)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=tensorflow,sklearn)](https://skillicons.dev)
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" height="40"/> 
+<img height="40" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png"> [![SkillIcons](https://skillicons.dev/icons?i=opencv,postgres,cassandra,kafka,docker,azure)](https://skillicons.dev)
 
 <h3 summary>Github Stats ⚡</summary>
 
