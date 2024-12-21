@@ -4,18 +4,19 @@
 
 - :school: I’m currently studying Artificial Intelligence at [University of Science](https://en.hcmus.edu.vn/)
 - :book: My SPECIALITY is **Recommendation System, Natural Language Preprocessing, Information Retrieval, Big Data, Deep Learning and Machine Learning**
-
 <h3 align="left">Languages and Libraries</h3>
-
-[![SkillIcons](https://skillicons.dev/icons?i=py,r,ts)](https://skillicons.dev)
-[![SkillIcons](https://skillicons.dev/icons?i=tensorflow,sklearn)](https://skillicons.dev)
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" height="40"/> 
-<img height="40" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png"> [![SkillIcons](https://skillicons.dev/icons?i=opencv,postgres,cassandra,kafka,docker,azure)](https://skillicons.dev)
-
+  <p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=py,r,ts,tensorflow,sklearn,pandas,numpy,opencv,spark,qdrant,postgres,cassandra,kafka,docker,azure" />
+</p>
 <h3 summary>Github Stats ⚡</summary>
-
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=MinhNguyenDS&count_private=true&theme=blueberry&hide_border=true&line_height=20)</a> <!-- &theme=blueberry -->
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhNguyenDS&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a> <!-- &theme=blueberry -->
+<p align="center">
+  <a href="#" style="display: block; margin: 10px 0;">
+    <img src="https://github-readme-stats.vercel.app/api?username=MinhNguyenDS&count_private=true&theme=blueberry&hide_border=true&line_height=20" alt="Github stats" />
+  </a>
+  <a href="#" style="display: block; margin: 10px 0;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhNguyenDS&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
 
 <!--
 **MinhNguyenDS/MinhNguyenDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
