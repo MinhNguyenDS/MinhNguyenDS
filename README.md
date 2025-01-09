@@ -2,7 +2,7 @@
 <h3 align="center">Master of Science at the University of Science - VNUHCM, Vietnam</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MinhNguyenDS&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet&style=for-the-badge&label=Repository+views" alt="MinhNguyenDS" /> </p>
 <p align="center">
-  🌐 <a href="sunminh-portfolio.vercel.app">Visit My Website</a> 🚀
+  🌐 <a href="https://sunminh-portfolio.vercel.app/">Visit My Website</a> 🚀
 </p>
 
 - :school: I’m currently studying Artificial Intelligence at [University of Science](https://en.hcmus.edu.vn/)
