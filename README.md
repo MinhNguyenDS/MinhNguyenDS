@@ -1,14 +1,17 @@
 <h1 align="center">:wave: Hi everyone :blush:, welcome to MinhNguyenDS's repository :star2:</h1>
 <h3 align="center">Master of Science at the University of Science - VNUHCM, Vietnam</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MinhNguyenDS&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet&style=for-the-badge&label=Repository+views" alt="MinhNguyenDS" /> </p>
+<p align="center">
+  🌐 <a href="sunminh-portfolio.vercel.app">Visit My Website</a> 🚀
+</p>
 
 - :school: I’m currently studying Artificial Intelligence at [University of Science](https://en.hcmus.edu.vn/)
-- :newspaper: For a complete list of publications see [my Google Scholar](https://scholar.google.com/citations?user=GeZg_VwAAAAJ&hl=en)
+- :newspaper: For a complete list of publications, see [my Google Scholar profile](https://scholar.google.com/citations?user=GeZg_VwAAAAJ&hl=en)
 - :book: My SPECIALITY is **Recommendation System, Natural Language Preprocessing, Information Retrieval, Big Data, Deep Learning and Machine Learning**
   
 <h3 align="left">Languages and Libraries</h3>
-  <p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=py,r,ts,tensorflow,sklearn,pandas,numpy,opencv,spark,qdrant,postgres,cassandra,kafka,docker,azure" />
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,r,ts,tensorflow,sklearn,pandas,numpy,opencv,spark,qdrant,postgres,cassandra,kafka,docker,azure" />
 </p>
 <h3 summary>Github Stats ⚡</summary>
 <p align="center">
