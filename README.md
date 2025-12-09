@@ -16,10 +16,10 @@
 <h3 summary>Github Stats ⚡</summary>
 <p align="center">
   <a href="#" style="display: block; margin: 10px 0;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MinhNguyenDS&count_private=true&theme=blueberry&hide_border=true&line_height=20" alt="Github stats" />
+    <img src="https://github-readme-stats-bqhz.vercel.app/api?username=MinhNguyenDS&count_private=true&theme=blueberry&hide_border=true&line_height=20" alt="Github stats" />
   </a>
   <a href="#" style="display: block; margin: 10px 0;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhNguyenDS&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats-bqhz.vercel.app/api/top-langs/?username=MinhNguyenDS&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
