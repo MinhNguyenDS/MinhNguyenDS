@@ -6,12 +6,13 @@
 </p>
 
 - :school: I’m currently studying Artificial Intelligence at [University of Science](https://en.hcmus.edu.vn/)
+- :school: I studied Data Science at [University of Information Technology](https://en.uit.edu.vn/)
 - :newspaper: For a complete list of publications, see [my Google Scholar profile](https://scholar.google.com/citations?user=GeZg_VwAAAAJ&hl=en)
-- :book: My SPECIALITY is **Recommendation System, Natural Language Preprocessing, Information Retrieval, Big Data, Deep Learning and Machine Learning**
+- :book: My SPECIALITY is **Recommendation Systems, Large Language Models, Natural Language Preprocessing, Information Retrieval, Big Data, Deep Learning and Machine Learning**
   
 <h3 align="left">Languages and Libraries</h3>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,r,ts,tensorflow,sklearn,pandas,numpy,opencv,spark,qdrant,postgres,cassandra,kafka,docker,azure" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,r,ts,tensorflow,sklearn,pandas,numpy,spark,qdrant,postgres,mongodb,docker,azure,aws,jenkins" /> <!-- opencv,cassandra,kafka -->
 </p>
 <h3 summary>Github Stats ⚡</summary>
 <p align="center">
