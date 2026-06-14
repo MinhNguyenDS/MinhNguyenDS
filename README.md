@@ -1,5 +1,5 @@
 <h1 align="center">:wave: Hi everyone :blush:, welcome to MinhNguyenDS's repository :star2:</h1>
-<h3 align="center">Master of Science at the University of Science - VNUHCM, Vietnam</h3>
+<h3 align="center">Master of Science at the University of Science - Vietnam National University HCM, Vietnam</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MinhNguyenDS&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet&style=for-the-badge&label=Repository+views" alt="MinhNguyenDS" /> </p>
 <p align="center">
   🌐 <a href="https://sunminh-portfolio.vercel.app/">Visit My Website</a> 🚀
@@ -14,13 +14,16 @@
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=py,r,ts,tensorflow,sklearn,pandas,numpy,spark,qdrant,postgres,mongodb,docker,azure,aws,jenkins" /> <!-- opencv,cassandra,kafka -->
 </p>
+
+<img align="right" height="200" width="200" alt="" src="jetpacktocat.png" />
+
 <h3 summary>Github Stats ⚡</summary>
 <p align="center">
   <a href="#" style="display: block; margin: 10px 0;">
-    <img src="https://github-readme-stats-bqhz.vercel.app/api?username=MinhNguyenDS&count_private=true&theme=blueberry&hide_border=true&line_height=20" alt="Github stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MinhNguyenDS&count_private=true&theme=blueberry&hide_border=true&line_height=20" alt="Github stats" />
   </a>
   <a href="#" style="display: block; margin: 10px 0;">
-    <img src="https://github-readme-stats-bqhz.vercel.app/api/top-langs/?username=MinhNguyenDS&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhNguyenDS&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
