@@ -5,6 +5,8 @@
   🌐 <a href="https://sunminh-portfolio.vercel.app/">Visit My Website</a> 🚀
 </p>
 
+<img style="display: block; margin: 10px 0;" align="right" height="140" width="140" alt="" src="jetpacktocat.png" />
+
 - :school: I’m currently studying Artificial Intelligence at [University of Science](https://en.hcmus.edu.vn/)
 - :school: I studied Data Science at [University of Information Technology](https://en.uit.edu.vn/)
 - :newspaper: For a complete list of publications, see [my Google Scholar profile](https://scholar.google.com/citations?user=GeZg_VwAAAAJ&hl=en)
@@ -15,9 +17,8 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=py,r,ts,tensorflow,sklearn,pandas,numpy,spark,qdrant,postgres,mongodb,docker,azure,aws,jenkins" /> <!-- opencv,cassandra,kafka -->
 </p>
 
-<img align="right" height="200" width="200" alt="" src="jetpacktocat.png" />
-
 <h3 summary>Github Stats ⚡</summary>
+  
 <p align="center">
   <a href="#" style="display: block; margin: 10px 0;">
     <img src="https://github-readme-stats.vercel.app/api?username=MinhNguyenDS&count_private=true&theme=blueberry&hide_border=true&line_height=20" alt="Github stats" />
