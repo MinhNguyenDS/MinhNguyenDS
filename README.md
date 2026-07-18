@@ -10,8 +10,6 @@
   <img align="center" height="130" width="130" alt="" src="jetpacktocat.png" />
 </div>
 
-
-
 - :school: I’m currently studying Artificial Intelligence at [University of Science](https://en.hcmus.edu.vn/)
 - :school: I studied Data Science at [University of Information Technology](https://en.uit.edu.vn/)
 - :newspaper: For a complete list of publications, see [my Google Scholar profile](https://scholar.google.com/citations?user=GeZg_VwAAAAJ&hl=en)
@@ -22,15 +20,16 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=py,r,ts,tensorflow,sklearn,pandas,numpy,spark,qdrant,postgres,mongodb,docker,azure,aws,jenkins" /> <!-- opencv,cassandra,kafka -->
 </p>
 
-<h3 align="left">My Favorites Books 📚</h3>
+<h3 align="left">Favorites Books</h3>
 
 <div align="center">
 
 | | | | |
 |:---:|:---:|:---:|:---:|
-| <a href="https://github.com/MinhNguyenDS/AI-pdf-books/blob/Master/AI%20Architecture%20books/%5BO'Reilly%5D%20Architecting%20Data%20and%20Machine%20Learning%20Platforms.pdf"><img src="Architecting%20Data%20and%20Machine%20Learning%20Platforms.jpg" height="220" alt="Architecting Data and Machine Learning Platforms"></a> | <a href="https://github.com/MinhNguyenDS/AI-pdf-books/blob/Master/AI%20Architecture%20books/%5BO'Reilly%5D%20Designing%20Machine%20Learning%20Systems.pdf"><img src="Designing%20Machine%20Learning%20Systems.jpg" height="220" alt="Designing Machine Learning Systems"></a> | <a href="https://github.com/MinhNguyenDS/AI-pdf-books/blob/Master/AI%20Architecture%20books/%5BO'Reilly%5D%20Generative%20AI%20Design%20Patterns.pdf"><img src="Generative%20AI%20Design%20Pattern.png" height="220" alt="Generative AI Design Patterns"></a> | <a href="https://github.com/MinhNguyenDS/AI-pdf-books/blob/Master/AI%20Architecture%20books/%5BO'Reilly%5D%20Machine%20Learning%20Design%20Patterns_Solutions%20to%20Common%20Challenges%20in%20Data%20Preparation%20Model%20Building%20and%20MLOps.pdf"><img src="Machine%20Learning%20Design%20Patterns.jpg" height="220" alt="Machine Learning Design Patterns"></a> |
+| <a href="https://github.com/MinhNguyenDS/AI-pdf-books/blob/Master/AI%20Architecture%20books/%5BO'Reilly%5D%20Architecting%20Data%20and%20Machine%20Learning%20Platforms.pdf"><img src="Architecting%20Data%20and%20Machine%20Learning%20Platforms.jpg" height="220" alt="Architecting Data and Machine Learning Platforms"></a> | <a href="https://github.com/MinhNguyenDS/AI-pdf-books/blob/Master/AI%20Architecture%20books/%5BO'Reilly%5D%20Designing%20Machine%20Learning%20Systems.pdf"><img src="Designing%20Machine%20Learning%20Systems.jpg" height="220" alt="Designing Machine Learning Systems"></a> | <a href="https://github.com/MinhNguyenDS/AI-pdf-books/blob/Master/AI%20Architecture%20books/%5BO'Reilly%5D%20Generative%20AI%20Design%20Patterns.pdf"><img src="Generative%20Al%20Design%20Pattern.png" height="220" alt="Generative AI Design Patterns"></a> | <a href="https://github.com/MinhNguyenDS/AI-pdf-books/blob/Master/AI%20Architecture%20books/%5BO'Reilly%5D%20Machine%20Learning%20Design%20Patterns_Solutions%20to%20Common%20Challenges%20in%20Data%20Preparation%20Model%20Building%20and%20MLOps.pdf"><img src="Machine%20Learning%20Design%20Patterns.jpg" height="220" alt="Machine Learning Design Patterns"></a> |
 
 </div>
+
 <!-- <h3 align="left">Github Stats ⚡</h3>
   
 <p align="center">
