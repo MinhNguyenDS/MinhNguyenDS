@@ -6,9 +6,9 @@
   🌐 <a href="https://sunminh-portfolio.vercel.app/">Visit My Website</a> 🚀
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img align="center" height="130" width="130" alt="" src="jetpacktocat.png" />
-</div>
+</div> -->
 
 - :school: I’m currently studying Artificial Intelligence at [University of Science](https://en.hcmus.edu.vn/)
 - :school: I studied Data Science at [University of Information Technology](https://en.uit.edu.vn/)
