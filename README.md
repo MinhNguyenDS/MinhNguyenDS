@@ -38,8 +38,8 @@
 <h3 align="left">Github Stats⚡</h3>
   
 <p align="center">
-  <img src="./profile/stats.svg" alt="Github stats" />
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
+  <img src="./profile/stats.svg" height="170" alt="Github stats" />
+  <img src="./profile/top-langs.svg" height="170" alt="Top Languages" />
 </p>
 
 <!--
